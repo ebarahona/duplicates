@@ -19,7 +19,7 @@
   "repository": "msn0/duplicates",
   "dependencies": {
     "hash-file": "^1.0.0",
-    "meow": "^3.1.0",
+    "meow": "^8.0.0",
     "mocha": "^2.2.4",
     "sinon": "^1.14.1",
     "walk": "^2.3.9"
